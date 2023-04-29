@@ -1324,6 +1324,18 @@ export const Formats: FormatList = [
 		},
 	},
 	{
+		name: "[Gen 8] Pipmons",
+		desc: `Test Description`,
+		threads: [
+			`&bullet; <a href="https://docs.google.com/spreadsheets/d/1YJXE8wUNJijWSfNKIUqgObN5uEVgTliewTluGe0w4Y4/edit?usp=sharing">Sreadsheet for the mod</a>`,
+		],
+		mod: 'agoldenexperience',
+		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod', 'Mega Data Mod'],
+		banlist: ['Uber'],
+		//teambuilderFormat: 'OU',
+		teambuilderFormat: 'National Dex',
+	},
+	{
 		name: "[Gen 8] Earth & Sky OU",
 		desc: `The metagame based on Pok&eacute;mon Earth & Sky, a set of theoretical games created by En Passant.`,
 		threads: [
