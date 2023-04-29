@@ -1331,7 +1331,7 @@ export const Formats: FormatList = [
 		],
 
 		mod: 'pipmons',
-		ruleset: ['Standard', 'Dynamax Clause', 'ER Data Mod',],
+		ruleset: ['Standard'],
 		banlist: ['All Pokemon', 'All Items'],
 		unbanlist: [
 			'Pogguest',
