@@ -1332,6 +1332,7 @@ export const Formats: FormatList = [
 		mod: 'agoldenexperience',
 		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod', 'Mega Data Mod'],
 		banlist: ['Uber'],
+		unbanlist: ['Pogguest'],
 		//teambuilderFormat: 'OU',
 		teambuilderFormat: 'National Dex',
 	},
