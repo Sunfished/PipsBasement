@@ -1327,14 +1327,15 @@ export const Formats: FormatList = [
 		name: "[Gen 8] Pipmons",
 		desc: `Test Description`,
 		threads: [
-			`&bullet; <a href="https://docs.google.com/spreadsheets/d/1YJXE8wUNJijWSfNKIUqgObN5uEVgTliewTluGe0w4Y4/edit?usp=sharing">Sreadsheet for the mod</a>`,
+			`<a href="https://www.smogon.com/forums/threads/3695749/">Extreme Reboot</a>`,
 		],
-		mod: 'agoldenexperience',
-		ruleset: ['Standard NatDex', 'OHKO Clause', 'Evasion Moves Clause', 'Species Clause', 'Dynamax Clause', 'Sleep Clause Mod', 'Data Mod', 'Mega Data Mod'],
-		banlist: ['Uber'],
-		unbanlist: ['Pogguest'],
-		//teambuilderFormat: 'OU',
-		teambuilderFormat: 'National Dex',
+
+		mod: 'pipmons',
+		ruleset: ['Standard', 'Dynamax Clause', 'ER Data Mod',],
+		banlist: ['All Pokemon', 'All Items'],
+		unbanlist: [
+			'Pogguest',
+		],
 	},
 	{
 		name: "[Gen 8] Earth & Sky OU",
