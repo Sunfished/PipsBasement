@@ -5,5 +5,11 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 			tackle: ["8L1"],
 		},
 	},
+	
+	pogguest2: {
+		learnset: {
+			tackle: ["8L1"],
+		},
+	},
 
 };

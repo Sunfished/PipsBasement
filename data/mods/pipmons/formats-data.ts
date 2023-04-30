@@ -5,4 +5,8 @@ export const FormatsData: {[k: string]: SpeciesFormatsData} = {
 		doublesTier: "Pipmons",
 	},
 	
+	pogguest2: {
+		tier: "Pipmons",
+		doublesTier: "Pipmons",
+	},
 };
