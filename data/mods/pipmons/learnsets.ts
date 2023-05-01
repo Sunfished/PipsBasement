@@ -6,7 +6,7 @@ export const Learnsets: {[speciesid: string]: LearnsetData} = {
 		},
 	},
 	
-	pogguest2: {
+	athleetah: {
 		learnset: {
 			tackle: ["8L1"],
 		},
