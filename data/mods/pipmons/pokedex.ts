@@ -10,9 +10,9 @@ export const Pokedex: {[k: string]: ModdedSpeciesData} = {
 		eggGroups: ["Field"],
 	},
 	
-	pogguest2: {
+	athleetah: {
 		num: 3002,
-		name: "Pogguest2",
+		name: "Athleetah",
 		types: ["Normal"],
 		baseStats: {hp: 70, atk: 70, def: 70, spa: 70, spd: 70, spe: 70},
 		abilities: {0: "Oblivious"},

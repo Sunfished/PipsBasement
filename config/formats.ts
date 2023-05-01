@@ -1334,7 +1334,7 @@ export const Formats: FormatList = [
 		ruleset: ['Standard'],
 		banlist: ['All Pokemon', 'All Items'],
 		unbanlist: [
-			'Pogguest','Pogguest2',
+			'Pogguest','Athleetah',
 		],
 	},
 	{
