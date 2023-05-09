@@ -1324,15 +1324,18 @@ export const Formats: FormatList = [
 		},
 	},
 	{
-		name: "[Gen 9] Fakemon Kitchen",
+		name: "[Gen 8] Pipmons",
 		desc: `Test Description`,
 		threads: [
-			`None`,
+			`<a href="https://www.smogon.com/forums/threads/3695749/">Extreme Reboot</a>`,
 		],
 
 		mod: 'pipmons',
 		ruleset: ['Standard'],
-		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass'],
+		banlist: ['All Pokemon', 'All Items'],
+		unbanlist: [
+			'Pogguest','Athleetah',
+		],
 	},
 	{
 		name: "[Gen 8] Earth & Sky OU",
