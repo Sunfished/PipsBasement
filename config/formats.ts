@@ -21,6 +21,7 @@ export const Formats: FormatList = [
 		column: 1,
 	},
 <<<<<<< HEAD
+<<<<<<< HEAD
 	
 	{
 		name: "[Gen 9] Fakemon Kitchen",
@@ -34,6 +35,8 @@ export const Formats: FormatList = [
 		unbanlist: ['Athleetah'],
 	},
 	
+=======
+>>>>>>> parent of 24958074e (Fixed Formats Data)
 =======
 >>>>>>> parent of 24958074e (Fixed Formats Data)
 	{
