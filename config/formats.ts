@@ -34,6 +34,18 @@ export const Formats: FormatList = [
 	},
 	
 	{
+		name: "[Gen 9] Sunmons",
+		desc: `Test Description`,
+		threads: [
+			`None`,
+		],
+		mod: 'sunmons',
+		ruleset: ['Standard'],
+		banlist: ['All Pokemon'],
+		unbanlist: ['Pogguest'],
+	},
+	
+	{
 		name: "[Gen 8] Alternatium EX",
 		desc: `<b>Alternatium EX</b>: A metagame made up of only Pokemon with alternate forms exist, with all of them being seperate and unique Pokemon.`,
 		threads: [
@@ -1336,17 +1348,7 @@ export const Formats: FormatList = [
 			}
 		},
 	},
-	{
-		name: "[Gen 9] Fakemon Kitchen",
-		desc: `Test Description`,
-		threads: [
-			`None`,
-		],
-		mod: 'pipmons',
-		ruleset: ['Standard'],
-		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass'],
-		unbanlist: ['Athleetah'],
-	},
+
 	{
 		name: "[Gen 8] Earth & Sky OU",
 		desc: `The metagame based on Pok&eacute;mon Earth & Sky, a set of theoretical games created by En Passant.`,
