@@ -20,6 +20,19 @@ export const Formats: FormatList = [
 		section: "Gen 9 Mods",
 		column: 1,
 	},
+	
+	{
+		name: "[Gen 9] Fakemon Kitchen",
+		desc: `Test Description`,
+		threads: [
+			`None`,
+		],
+		mod: 'pipmons',
+		ruleset: ['Standard'],
+		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass'],
+		unbanlist: ['Athleetah'],
+	},
+	
 	{
 		name: "[Gen 8] Alternatium EX",
 		desc: `<b>Alternatium EX</b>: A metagame made up of only Pokemon with alternate forms exist, with all of them being seperate and unique Pokemon.`,
@@ -1332,6 +1345,7 @@ export const Formats: FormatList = [
 		mod: 'pipmons',
 		ruleset: ['Standard'],
 		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass'],
+		unbanlist: ['Athleetah'],
 	},
 	{
 		name: "[Gen 8] Earth & Sky OU",
