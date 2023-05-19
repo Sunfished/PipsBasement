@@ -20,8 +20,7 @@ export const Formats: FormatList = [
 		section: "Gen 9 Mods",
 		column: 1,
 	},
-<<<<<<< HEAD
-	
+
 	{
 		name: "[Gen 9] Fakemon Kitchen",
 		desc: `Test Description`,
@@ -33,16 +32,12 @@ export const Formats: FormatList = [
 		banlist: ['Uber', 'AG', 'Arena Trap', 'Moody', 'Sand Veil', 'Shadow Tag', 'Snow Cloak', 'King\'s Rock', 'Baton Pass'],
 		unbanlist: ['Athleetah'],
 	},
-	
-=======
->>>>>>> parent of 24958074e (Fixed Formats Data)
+
 	{
 		section: "Other Mods",
 		column: 1,
 	},
 	
-<<<<<<< HEAD
-=======
 	{
 		name: "[Gen 8] Black Market",
 		mod: "blackmarket",
@@ -1789,5 +1784,4 @@ export const Formats: FormatList = [
 		banlist: ['All Pokemon', 'Belly Drum', 'Huge Power'],
 		unbanlist: ['Shadow Tag', 'Pichu', 'Cleffa', 'Igglybuff', 'Togepi', 'Tyrogue', 'Smoochum', 'Elekid', 'Magby', 'Azurill', 'Wynaut', 'Budew', 'Chingling', 'Bonsly', 'Mime Jr.', 'Happiny', 'Munchlax', 'Riolu', 'Mantyke', 'Toxel'],
 	},
->>>>>>> parent of 24958074e (Fixed Formats Data)
 ];
